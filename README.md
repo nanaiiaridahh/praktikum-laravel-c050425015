@@ -21,3 +21,5 @@ Proyek ini merupakan proyek praktikum Pemrograman Web menggunakan Laravel.
 
 3. Jalankan server:
    php artisan serve
+
+   Terakhir diperbarui untuk Praktikum 6.
