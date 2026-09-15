@@ -61,3 +61,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Praktikum Git & GitHub
 
 Proyek ini merupakan proyek praktikum Pemrograman Web menggunakan Laravel.
+
+## Teknologi
+
+- Laravel
+- PHP
+- MySQL
+- Git & GitHub
